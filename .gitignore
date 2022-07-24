@@ -1,0 +1,7 @@
+/.idea/
+/target/
+*.iml
+*.xml
+
+/src/main/java/Ignore_Test1.java
+/pom.xml
