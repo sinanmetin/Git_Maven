@@ -15,6 +15,14 @@ public class Feature_A {
 
         System.out.println("some fixes");
 
+        System.out.println("Feature B has been started");
+
+        System.out.println("Inheritance");
+
+        System.out.println("Encapsulation");
+
+        System.out.println("some changes");
+
 
 
 
