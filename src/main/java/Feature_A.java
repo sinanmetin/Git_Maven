@@ -5,15 +5,6 @@ public class Feature_A {
 
         System.out.println("Feature A Work 1");
 
-       // credential
-
-        // some changes
-
-
-
-
-
-
     }
 
 
